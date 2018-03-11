@@ -1,0 +1,108 @@
+-----Week 3-----
+
+Đoàn Ngọc Giang Nam:
+- library management use case diagram
+- use case specification, activity diagram and sequence diagram of use case register to borrow books
+
+
+Nguyễn Đình Hải Nam:
+- glossary and supplementary specification
+- use case specification, activity diagram and sequence diagram of use case add new book
+
+Tạ Thanh Lương:
+- check and correct use case diagram, glossary and supplementary specification
+- use case specification, activity diagram and sequence diagram of use case return books
+
+
+
+-----Week 4-----
+Đoàn Ngọc Giang Nam:
+- communication diagram and class diagram of use case register to borrow books
+- use case specification, activity diagram, communication diagram and class diagram of use case log in
+- combine class diagram
+
+
+Nguyễn Đình Hải Nam:
+- communication diagram and class diagram of use case add new book
+- use case specification, activity diagram, communication diagram and class diagram of use case register existing book
+- combined class diagram
+
+
+
+-----Week 5-----
+Đoàn Ngọc Giang Nam:
+- screen transition diagram
+- screen mock-up, wireframe file and specification of use case log in and register to borrow book
+
+
+Nguyễn Đình Hải Nam:
+- Standardize screen configuration 
+- screen mock-up, wireframe file and specification of use case add new book and register existing book
+
+Tạ Thanh Lương:
+- screen mock-up, wireframe file and specification of use case borrow book and return book
+
+
+
+-----Week 6-----
+Đoàn Ngọc Giang Nam:
+- class design and operation/method design of use case log in and register to borrow books
+
+
+Nguyễn Đình Hải Nam:
+- class design and operation/method design of use case add new book and add copy
+
+Tạ Thanh Lương:
+- class design and operation/method design of use case borrow book and return book
+
+
+
+
+-----Week 7-----
+Đoàn Ngọc Giang Nam:
+- er diagram of use case log in and register to borrow books
+- er diagram and database design (sql file) of the library management system
+
+
+Nguyễn Đình Hải Nam:
+- er diagram of use case add new book and add copy
+- er diagram and database design (sql file) of the library management system
+
+Tạ Thanh Lương:
+- er diagram of use case borrow book and return book
+- er diagram and database design (sql file) of the library management system
+
+
+
+
+-----Week 10-----
+
+Note: 
+- math problem unit tests are found in folder TDD
+- use case unit tests are found in LibraryManagement/Workspace/application/tests/Browser
+
+Đoàn Ngọc Giang Nam:
+- black box and white box test design and unit test code of triangle problem
+- unit test code of use case log in and register to borrow books
+
+Nguyễn Đình Hải Nam:
+- black box and white box test design and unit test code of system of two linear equation with two variables problem
+- unit test code of use case add new book and add new copy
+
+Tạ Thanh Lương:
+- unit test code of one variable quadratic equation problem
+
+
+
+
+-----Week 11-----
+
+Note: 
+- design pattern report can be found in folder Design pattern
+
+Đoàn Ngọc Giang Nam:
+- visitor design pattern report
+
+Nguyễn Đình Hải Nam:
+- observer design pattern report
+
